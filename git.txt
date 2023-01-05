@@ -1,1 +1,4 @@
 this is divakar trying to learn the git
+i am adding a new line
+i am adding another line to check add method perfectly
+this is the last time i am going to check this again.
